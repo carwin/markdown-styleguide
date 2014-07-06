@@ -55,8 +55,8 @@ which would produce decent looking output without looking stupid in vim.
         1. sub-list item 1
         2. sub-list item 2
 
-      * list item 3
-      * list item 4
+      - list item 3
+      - list item 4
 
     This is text of any kind that follows a list.
     ```
