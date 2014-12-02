@@ -32,6 +32,8 @@ which would produce decent looking output without looking stupid in vim.
   - Headers spanning more than 80 characters should be re-evaluated.
   - Headers must be preceded and followed by a newline except at the beginning
     of a file.
+  - Default GitHub `README.md` file contains line of equal signs
+    but the `atx-style` is obviously better.
 
 ## Lists
 
