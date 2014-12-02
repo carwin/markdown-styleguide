@@ -33,6 +33,16 @@ which would produce decent looking output without looking stupid in vim.
   - Headers must be preceded and followed by a newline except at the beginning
     of a file.
 
+## Horizontal Rules
+
+The convention for horizontal rules in this style guide is to use hyphens
+(instead of asterisks or underscores). Following another basic convention of the
+guide, horizontal rules should span 80 characters for readability.
+
+```
+--------------------------------------------------------------------------------
+```
+
 ## Lists
 
   - **List items** must be indented 2 spaces further than their parent.
