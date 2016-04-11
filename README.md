@@ -45,14 +45,14 @@ guide, horizontal rules should span 80 characters for readability.
 
 ## Lists
 
-  - **List items** must be indented 2 spaces further than their parent.
+  - **List items** must be indented 4 spaces further than their parent.
   - Unordered list Items should use `-` instead of `*`.
 
     ```
     This is arbitrary text, an unordered list begins on the next line.
-      - list item 1
-      - list item 2
-        - sub-list item
+        - list item 1
+        - list item 2
+            - sub-list item
     ```
 
   - The first level of list items must not be preceded by a newline.
@@ -60,13 +60,13 @@ guide, horizontal rules should span 80 characters for readability.
 
     ```
     This text precedes a list of things.
-      - list item 1
-      - list item 2
-        1. sub-list item 1
-        2. sub-list item 2
+          - list item 1
+          - list item 2
+              1. sub-list item 1
+              2. sub-list item 2
 
-      - list item 3
-      - list item 4
+          - list item 3
+          - list item 4
 
     This is text of any kind that follows a list.
     ```
